@@ -1,0 +1,6 @@
+{
+  "name": "Meridian VPN",
+  "description": "Private global VPN routing console with interactive server map, live throughput graphics, threat shield, split tunneling, and network diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
